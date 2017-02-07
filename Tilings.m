@@ -1,5 +1,3 @@
-(* ::Package:: *)
-
 (** :: Package :: **)
 (* Tilings V-0.1, 07/02/2017 *)
 (* Authors: Chuang Sun, Yan Xiao *)
