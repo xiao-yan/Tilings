@@ -38,7 +38,7 @@
 # Re-written part of the documentation. Needs to fill in the paper information.
 # Added on a module DemonDimer[], used to guide the user by a simple example.
 
-
-
+### GLSMData.nb ###
+This file contains all the charge matrices Q_t for all diagrams of area 6, 7 and 8. This is a Mathematica notebook file and it requires Mathematica to open and all the data are grouped by diagram and are collapsed into a single group for each diagram.
  
 
